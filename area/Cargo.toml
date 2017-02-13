@@ -1,0 +1,6 @@
+[package]
+name = "area"
+version = "0.1.0"
+authors = ["杨阳 <this@pro-yy.com>"]
+
+[dependencies]
